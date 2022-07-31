@@ -23,7 +23,7 @@ body{
 .color{
     color: white;
     display: flex;
-    background-color: darkgreen;
+    background-color:lightgreen;
     border-radius: 0.5rem;
     width: 5rem;
     height:5rem;
