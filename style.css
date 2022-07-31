@@ -40,23 +40,22 @@ body {
     text-align: center;
     justify-content: center;
     align-items: center;
-    
+
     --colorStart: #ff9000ff;
     --colorEnd: #ffd000ff;
 
     border-top: 5px solid var(--colorStart);
     border-bottom: 5px solid var(--colorEnd);
 
-    background-image:
-    linear-gradient(var(--colorStart), var(--colorEnd)),
-    linear-gradient(var(--colorStart), var(--colorEnd));
+    background-image: linear-gradient(var(--colorStart), var(--colorEnd)),
+        linear-gradient(var(--colorStart), var(--colorEnd));
     background-size: 5px 100%;
     background-position: 0 0, 100% 0;
     background-repeat: no-repeat;
-    
-    
+
+
     border-radius: 0.4rem;
-    
+
 
 }
 
