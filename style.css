@@ -23,11 +23,11 @@ body{
 .color{
     color: white;
     display: flex;
-    background-color:lightgreen;
+    background-color:lightblue;
     border-radius: 0.5rem;
     width: 5rem;
     height:5rem;
-    font-size: 4rem;
+    font-size: 2rem;
     /* border: 10px solid #00006f5f; */
     outline: 5px solid #0020044f;
     text-align: center;
