@@ -1,0 +1,36 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    list-style: none;
+    text-decoration: none;
+
+}
+
+html,body{
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+body{
+    background-color: #0f9f6fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.color{
+    color: white;
+    display: flex;
+    background-color: darkgreen;
+    border-radius: 0.5rem;
+    width: 5rem;
+    height:5rem;
+    font-size: 4rem;
+    /* border: 10px solid #00006f5f; */
+    outline: 5px solid #0020044f;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
