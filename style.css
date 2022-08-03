@@ -24,7 +24,7 @@ body {
 .color {
     color: white;
     display: flex;
-    background-color: hsl(180, 100%, 20%);
+    background-color: hsl(180, 100%, 50%);
     /* width: fit-content; */
     padding: 1.5rem;
     /* height:5rem; */
